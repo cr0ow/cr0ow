@@ -2,7 +2,7 @@
 
 \
 \
-💻 I’m working as Java developer with Spring Boot.
+💻 I’m working as Java developer with Spring Boot
 
 🎓 I'm studying Applied Computer Science at Jagiellonian University in Cracow
 
