@@ -8,4 +8,4 @@
 
 📘 I'm currently working on my master's thesis covering videoconferences with WebRTC
 
-💡 In my free time, I'm lerning Kotlin and Android development
+💡 In my free time, I'm lerning Kotlin and Ktor/Android
